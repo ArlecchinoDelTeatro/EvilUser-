@@ -22,7 +22,7 @@ def admin():
 admin()
 print("")
 print(red+"  ╔"+red+"["+green+"Arlecchino"+red+"]"+red+"══❥"+" Wait ")
-print(red+"  ╔"+red+"["+green+"Arlecchino"+red+"]"+red+"══❥"+" I will redirect you")
+print(red+"  ╚"+red+"["+green+"Arlecchino"+red+"]"+red+"══❥"+" I will redirect you")
 print("")
 time.sleep(7)
 

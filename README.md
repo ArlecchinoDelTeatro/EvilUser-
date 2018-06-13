@@ -2,7 +2,7 @@
 SA-MP Server Checker 
 Version : 0.1 
 Founder : ArlecchinoSec & Icey 
-Team : LouOfTheNorth 
+Team : LoudOfTheNorth 
 
 # Founder 
 ArlecchinoSec & Icey 

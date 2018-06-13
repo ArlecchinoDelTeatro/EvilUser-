@@ -26,4 +26,4 @@ print(red+"  ╔"+red+"["+green+"Arlecchino"+red+"]"+red+"══❥"+" I will re
 print("")
 time.sleep(7)
 
-os.system("python3.6 revenge.py")
+os.system("python3.6 EvilUser.py")
